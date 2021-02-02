@@ -1,0 +1,23 @@
+*{
+    background-color: cornsilk;
+}
+
+body{
+    margin-top: 20vh;
+    margin-left: 25vw;
+    margin-right: 15vw;
+    border: solid;
+    padding: 20px;
+}
+
+button{
+    border-radius: 50px;
+    padding: 10px;
+    background-color: aliceblue;
+}
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(37, 37, 37);
+    font-stretch: narrower;
+}
